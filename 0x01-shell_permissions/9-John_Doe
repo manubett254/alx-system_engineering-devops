@@ -1,0 +1,2 @@
+#!/bin/bash
+touch ./hello | chmod u+x hello | chmod g=rx hello | chmod 0 = wx hello
