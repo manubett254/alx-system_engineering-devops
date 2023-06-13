@@ -1,1 +1,1 @@
-0x02 files read me
+This Read me shows the workings of the scripts
